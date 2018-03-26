@@ -7,7 +7,7 @@ jdk:
 branches:
   only:
     - master
-    - development
+    - development 
 
 after_success:
   - mvn clean test jacoco:report coveralls:report
