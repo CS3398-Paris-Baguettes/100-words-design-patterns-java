@@ -7,7 +7,7 @@ jdk:
 branches:
   only:
     - master
-    - development
+    - Roddie-Dev
 
 after_success:
   - mvn clean test jacoco:report coveralls:report
