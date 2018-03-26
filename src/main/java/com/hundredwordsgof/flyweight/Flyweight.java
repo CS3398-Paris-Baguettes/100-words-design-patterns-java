@@ -1,6 +1,6 @@
 package com.hundredwordsgof.flyweight;
 
-// Jarrod Trompler
+// Jarrod Trompler 
 
 /**
  * 
